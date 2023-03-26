@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donna</h1>
-<h3 align="center">I am an aspiring Full-Stack Developer looking to make a difference one web application at a time.</h3>
+<h3 align="center">👩🏽‍💻 Aspiring Full-Stack Developer || HTML📃 || CSS✨ || JavaScript💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donnaada&label=Profile%20views&color=0e75b6&style=flat" alt="donnaada" /> </p>
 
