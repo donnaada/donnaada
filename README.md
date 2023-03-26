@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, JavaScript and CSS**
 
-- 💬 About Me: **I am currently going through a coding bootcamp through Code Fellows and am excited to see how much how much I can grow in just a few months.**
+- 💬 About Me: **I am currently going through a coding bootcamp with Code Fellows and am excited to see how much I can grow in just a few months.**
 
 - 📫You can reach me at **dmaa.dev@icloud.com**
 
