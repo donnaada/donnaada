@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **HTML, JavaScript and CSS**
 
-- 💬 Ask me about **I am currently going through a coding bootcamp through Code Fellows and am excited to see how much how much I can grow in just a few months.**
+- 💬 About Me: **I am currently going through a coding bootcamp through Code Fellows and am excited to see how much how much I can grow in just a few months.**
 
-- 📫 How to reach me **dmaa.dev@icloud.com**
+- 📫You can reach me at **dmaa.dev@icloud.com**
 
-- ⚡ Fun fact **I like to think I might be the only islander who cant swim, lol!**
+- ⚡ Fun fact: **I like to think I might be the only islander who cant swim, lol!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
