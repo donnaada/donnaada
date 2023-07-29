@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Donna</h1>
-<h3 align="center">👩🏽‍💻 Aspiring Full-Stack Developer || HTML📃 || CSS✨ || JavaScript💡</h3>
+<h3 align="center">👩🏽‍💻 Full-Stack Developer || HTML📃 || CSS✨ || JavaScript💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donnaada&label=Profile%20views&color=0e75b6&style=flat" alt="donnaada" /> </p>
 
-- 🌱 I’m currently learning **HTML, JavaScript and CSS**
+- 🌱 I’m currently learning **React Native, React**
 
-- 💬 About Me: **I am currently going through a coding bootcamp with Code Fellows and am excited to see how much I can grow in just a few months.**
+- 💬 About Me: **Recent Code Fellows Graduate excited to use my newfound skills to create new and contribute to existing applications to help improve the quality of life for its users.**
 
 - 📫You can reach me at **dmaa.dev@icloud.com**
 
