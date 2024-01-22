@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donnaada&label=Profile%20views&color=0e75b6&style=flat" alt="donnaada" /> </p>
 
-- 🌱 I’m currently learning **React Native, React**
+- 🌱 I’m currently learning **GoLang**
 
 - 💬 About Me: **Recent Code Fellows Graduate excited to use my newfound skills to create new and contribute to existing applications to help improve the quality of life for its users.**
 
